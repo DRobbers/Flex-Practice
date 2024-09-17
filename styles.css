@@ -1,8 +1,9 @@
 .FlexWrapper {
     background-color: indigo;
     display: flex;
+    justify-content: space-between;
     height: 200px;
-    width: 400px;
+    width: 100px;
     
 }
 
@@ -10,10 +11,7 @@
     background-color: #34005b;
     display: flex;
     height: 100px;
-    width: 200px;
+    width: 25%;
     color:  white;
 }
 
-.AlignSelf {
-    align-self: center;
-}
